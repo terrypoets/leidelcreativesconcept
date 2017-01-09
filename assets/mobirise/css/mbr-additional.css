@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -415,6 +416,9 @@ h6,
 #content5-12 p {
   color: #fff;
 }
+#content5-12 .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
 #header1-z .mbr-section-title {
   text-align: left;
 }
@@ -487,7 +491,7 @@ h6,
   background-color: #ffffff;
 }
 #footer1-2 P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -551,7 +555,7 @@ h6,
   background-color: #ffffff;
 }
 #footer1-3 P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #slider-r H2 {
   text-align: left;
@@ -621,7 +625,7 @@ h6,
   background-color: #ffffff;
 }
 #footer1-5 P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -688,7 +692,7 @@ h6,
   color: #232323;
 }
 #footer1-7 P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -752,10 +756,10 @@ h6,
   background-color: #ffffff;
 }
 #footer1-e P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #footer1-14 P {
-  font-size: 16px;
+  font-size: 19px;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;

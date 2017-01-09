@@ -42,6 +42,10 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -131,7 +135,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "<span style=\"font-size: 3rem; line-height: 1.1;\">FOLLOW US</span><br>",
+          "text": "VOLG ONS",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
@@ -225,7 +229,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-2",
@@ -341,7 +345,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-3",
@@ -357,7 +361,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives<br>"
         },
         {
           "_tags": [
@@ -540,7 +544,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-5",
@@ -556,7 +560,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives<br>"
         },
         {
           "_inherit": "features3",
@@ -863,7 +867,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-7",
@@ -879,7 +883,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives<br>"
         }
       ]
     },
@@ -979,7 +983,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-e",
@@ -995,7 +999,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives<br>"
         },
         {
           "_inherit": "gallery1",
@@ -1104,7 +1108,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "16px"
+              "font-size": "19px"
             }
           },
           "_anchor": "footer1-14",
@@ -1120,7 +1124,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives<br>"
         },
         {
           "_styles": {
