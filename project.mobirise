@@ -72,8 +72,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "TERRY POETS CAR DETAILING&nbsp;",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "title": "TERRY POETS <br>CAR DETAILING&nbsp;",
+          "caption": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.<br><br></span></p>"
         },
         {
           "_tags": [
@@ -101,7 +101,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -125,8 +125,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1b",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
