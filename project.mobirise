@@ -246,7 +246,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives Amsterdam<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         }
       ]
     },
@@ -362,7 +362,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         },
         {
           "_tags": [
@@ -561,7 +561,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         },
         {
           "_inherit": "features3",
@@ -884,7 +884,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         }
       ]
     },
@@ -1000,7 +1000,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         },
         {
           "_inherit": "gallery1",
@@ -1125,7 +1125,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Leidel Creatives<br>"
+          "text": "Copyright (c) 2017 Leidel Creatives&nbsp;<br>"
         },
         {
           "_styles": {
