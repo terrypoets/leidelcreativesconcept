@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -417,7 +417,8 @@ h6,
   color: #fff;
 }
 #content5-12 .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 #header1-z .mbr-section-title {
   text-align: left;
