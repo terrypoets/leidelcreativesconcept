@@ -58,7 +58,7 @@
           },
           "_anchor": "msg-box5-1o",
           "_params": {
-            "imageSize": "29",
+            "imageSize": "25",
             "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
@@ -73,7 +73,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -240,8 +240,7 @@
               "alt": "Mobirise",
               "link": "http://google.com",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -250,7 +249,8 @@
               "family": "socicon",
               "link": "",
               "size": "50",
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TERRY&nbsp;POETS</a>",
