@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -412,13 +411,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#content5-12 .mbr-section-title,
-#content5-12 p {
-  color: #fff;
-}
-#content5-12 .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+#msg-box5-1o SPAN {
   text-align: center;
+}
+#msg-box5-1o H3 {
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box5-1o P {
+  text-align: left;
+  color: #ffffff;
 }
 #header1-z .mbr-section-title {
   text-align: left;
@@ -435,6 +437,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 24px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -499,6 +502,7 @@ h6,
 }
 #menu-2 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-2 .navbar-toggler {
   color: #ffffff;
@@ -564,11 +568,13 @@ h6,
 #slider-r P {
   text-align: left;
 }
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-4 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-4 .navbar-toggler {
   color: #ffffff;
@@ -628,11 +634,19 @@ h6,
 #footer1-5 P {
   font-size: 19px;
 }
+#features6-18 H5 {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#features6-18 SPAN {
+  color: #000000;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
@@ -700,6 +714,7 @@ h6,
 }
 #menu-d .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-d .navbar-toggler {
   color: #ffffff;
@@ -767,6 +782,7 @@ h6,
 }
 #menu-d .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
 }
 #menu-d .navbar-toggler {
   color: #ffffff;
