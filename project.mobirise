@@ -58,7 +58,7 @@
           },
           "_anchor": "msg-box5-1o",
           "_params": {
-            "imageSize": "32",
+            "imageSize": "29",
             "paddingTop": "2",
             "paddingBottom": "0",
             "parallax": true,
@@ -73,7 +73,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -100,7 +100,7 @@
               "size": 0
             }
           },
-          "title": "<br><br><span style=\"font-size: 3rem; line-height: 1.1; text-align: left;\">CAR DETAILING </span><span style=\"font-size: 3rem; line-height: 1.1; text-align: left;\">WITH PASSION</span><br>",
+          "title": "<br><br><span style=\"font-size: 3rem; line-height: 1.1; text-align: left;\">CAR DETAILING </span><span style=\"font-size: 3rem; line-height: 1.1; text-align: left;\"><br></span><span style=\"font-size: 3rem; line-height: 1.1; text-align: left;\">WITH PASSION</span><br>",
           "text": "<br><i>Solid color intro with an image on the right side. Also this block has no paddings.</i><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
